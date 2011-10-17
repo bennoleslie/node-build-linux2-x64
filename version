@@ -1,0 +1,1 @@
+git@github.com:bennoleslie/node.git df744eacf8fb80098d2c566e8c19caeaa9db405e </root/node/tools/waf-light --jobs=1 configure --prefix=/root/node-build/>
